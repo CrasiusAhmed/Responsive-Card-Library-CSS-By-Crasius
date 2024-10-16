@@ -1,4 +1,4 @@
-<h1>Responsive-Card-Library-CSS-By-Crasius By Crasius</h1>
+<h1>Responsive-Card-Library-CSS By Crasius</h1>
 
 This Beautiful Website is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built Just using HTML, CSS.
 
